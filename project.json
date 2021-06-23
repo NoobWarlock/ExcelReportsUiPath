@@ -1,0 +1,91 @@
+{
+  "name": "Ejercicio Reportes Excel",
+  "description": "Proceso en blanco",
+  "main": "AppRange Ejemplo.XAML",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.10.2-preview]",
+    "UiPath.Mail.Activities": "[1.10.2-preview]",
+    "UiPath.System.Activities": "[21.2.1-preview]",
+    "UiPath.UIAutomation.Activities": "[21.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.2.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "18999191-179e-432c-9ee3-bb5d0ac68ea2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reporte 1.XAML",
+      "uniqueId": "b0bc96f6-039b-43cb-9197-dab4066e738c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reporte 2.XAML",
+      "uniqueId": "288ed394-b934-4ef9-b000-ef0d823d26ed",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reporte 3.XAML",
+      "uniqueId": "1a748fe1-8e08-4f98-b2ee-e13e8950b861",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reporte 4.XAML",
+      "uniqueId": "902160a1-0681-4188-ba1e-53fc80ccc242",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reporte 5.XAML",
+      "uniqueId": "1b149757-afce-43db-b7b0-3c157a091daa",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "AppRange Ejemplo.XAML",
+      "uniqueId": "3f374ac8-25e9-4dc3-8fe2-dd28976c77e1",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
